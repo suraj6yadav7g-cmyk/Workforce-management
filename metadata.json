@@ -1,0 +1,6 @@
+{
+  "name": "Cadence Workforce",
+  "description": "A clean, responsive workforce management platform for tracking employees, daily attendance, tasks, leave approvals, and attendance reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
